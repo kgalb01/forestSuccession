@@ -1,7 +1,9 @@
 # forestSuccession
 Author: Jonas Starke, Kieran Galbraith 
 
-This R Package contains functions to perform an analysis of successional forests using LiDAR data
+This R Package contains functions to perform an analysis of successional forests using LiDAR data for example calculating a CHM and other models
+
+![](examples/Location_1/chm_diff_T1_T2.png)
 
 For additional information about forest succession and the R Package please refer to the study project „Monitoring forest succession using airborne LiDAR data“ or write an E-Mail to jstarke@uni-muenster.de or k_galb01@uni-muenster.de
 
